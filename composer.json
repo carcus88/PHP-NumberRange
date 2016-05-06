@@ -1,0 +1,15 @@
+{
+  "name": "carcus88/PHP-NumberRange",
+  "description": "PHP version of the PERL CPAN module Number::Range",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Mark Mitchell",
+      "email": "carcus88@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  }
+}
