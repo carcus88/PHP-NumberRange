@@ -1,5 +1,5 @@
 {
-  "name": "carcus88/PHP-NumberRange",
+  "name": "carcus88/php-numberrange",
   "description": "PHP version of the PERL CPAN module Number::Range",
   "minimum-stability": "stable",
   "license": "GPL-3.0+",
